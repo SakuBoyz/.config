@@ -13,5 +13,4 @@ Plug 'kyazdani42/nvim-web-devicons'                 " for file icons
 Plug 'kyazdani42/nvim-tree.lua'
 Plug 'klen/nvim-test'
 Plug 'wsdjeg/vim-pact'                              "Pact language syntax
-PATH="$BUN_INSTALL/bin:$PATH"
 call plug#end()
